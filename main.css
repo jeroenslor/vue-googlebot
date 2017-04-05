@@ -3,19 +3,19 @@ body {
     margin: 0 auto;
 }
 
-product-detail {
+.product-detail {
     padding: 20px;
 }
 
-product-detail__title {
+.product-detail__title {
     font-size: 30px;
     color: #0056A6;
 }
 
-product-detail__subtitle {
+.product-detail__subtitle {
     color: #273552;
 }
 
-product-detail__img {
+.product-detail__img {
     float: left;
 }
